@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning<br>👯 I’m looking to collaborate on Web development<br>
+👯 I’m looking to collaborate on Web development<br>
 
 
 # 💻 Tech Stack:
