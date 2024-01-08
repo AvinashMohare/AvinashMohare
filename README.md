@@ -1,5 +1,6 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on Web development<br>
+Loud and Proud
+👯 I’m looking to collaborate on Web development.<br>
 
 
 # 💻 Tech Stack:
